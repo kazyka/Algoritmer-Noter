@@ -1,0 +1,57 @@
+\select@language {danish}
+\contentsline {chapter}{\numberline {1}Divide and Conquer}{3}{chapter.1}
+\contentsline {section}{\numberline {1.1}Definition}{3}{section.1.1}
+\contentsline {section}{\numberline {1.2}Divide and Conquer s. 65}{3}{section.1.2}
+\contentsline {section}{\numberline {1.3}MERGE-SORT}{3}{section.1.3}
+\contentsline {section}{\numberline {1.4}K\IeC {\o }retid}{3}{section.1.4}
+\contentsline {section}{\numberline {1.5}Rekursions tr\IeC {\ae }}{4}{section.1.5}
+\contentsline {section}{\numberline {1.6}Substitution}{5}{section.1.6}
+\contentsline {section}{\numberline {1.7}Master Theorem}{5}{section.1.7}
+\contentsline {section}{\numberline {1.8}Quicksort S. 170}{5}{section.1.8}
+\contentsline {subsection}{\numberline {1.8.1}Running time}{6}{subsection.1.8.1}
+\contentsline {section}{\numberline {1.9}Closest pair of points s. 1039}{6}{section.1.9}
+\contentsline {chapter}{\numberline {2}Priorty queues and Heaps s. 151}{7}{chapter.2}
+\contentsline {section}{\numberline {2.1}Definition s.151-153}{7}{section.2.1}
+\contentsline {section}{\numberline {2.2}Heap Property s. 154}{7}{section.2.2}
+\contentsline {section}{\numberline {2.3}Max-Heapify}{7}{section.2.3}
+\contentsline {section}{\numberline {2.4}Build-Max-Heap s. 156}{8}{section.2.4}
+\contentsline {subsection}{\numberline {2.4.1}k\IeC {\o }retid s. 157}{8}{subsection.2.4.1}
+\contentsline {subsection}{\numberline {2.4.2}Heapsort}{9}{subsection.2.4.2}
+\contentsline {section}{\numberline {2.5}Priorty queues}{9}{section.2.5}
+\contentsline {chapter}{\numberline {3}Binary Search Trees}{10}{chapter.3}
+\contentsline {section}{\numberline {3.1}Definition}{10}{section.3.1}
+\contentsline {section}{\numberline {3.2}BST operations and running time}{10}{section.3.2}
+\contentsline {subsection}{\numberline {3.2.1}Inorder Tree Walk Theroem 12.1}{10}{subsection.3.2.1}
+\contentsline {section}{\numberline {3.3}Delete}{11}{section.3.3}
+\contentsline {section}{\numberline {3.4}Red-Black-Trees}{13}{section.3.4}
+\contentsline {subsection}{\numberline {3.4.1}Definition}{13}{subsection.3.4.1}
+\contentsline {subsection}{\numberline {3.4.2}Lemma 13.1}{13}{subsection.3.4.2}
+\contentsline {subsection}{\numberline {3.4.3}Rotation}{14}{subsection.3.4.3}
+\contentsline {subsection}{\numberline {3.4.4}Insertion}{14}{subsection.3.4.4}
+\contentsline {subsection}{\numberline {3.4.5}Deletion}{15}{subsection.3.4.5}
+\contentsline {chapter}{\numberline {4}Dynamic Programming}{16}{chapter.4}
+\contentsline {section}{\numberline {4.1}Memoized}{16}{section.4.1}
+\contentsline {subsection}{\numberline {4.1.1}Top-down}{16}{subsection.4.1.1}
+\contentsline {subsection}{\numberline {4.1.2}Bottom-up}{17}{subsection.4.1.2}
+\contentsline {section}{\numberline {4.2}LCS Theorem 15.1}{17}{section.4.2}
+\contentsline {subsection}{\numberline {4.2.1}15.1}{17}{subsection.4.2.1}
+\contentsline {subsection}{\numberline {4.2.2}Rekursiv l\IeC {\o }sning}{18}{subsection.4.2.2}
+\contentsline {subsection}{\numberline {4.2.3}computing LCS}{18}{subsection.4.2.3}
+\contentsline {subsection}{\numberline {4.2.4}The solution}{19}{subsection.4.2.4}
+\contentsline {section}{\numberline {4.3}B\IeC {\r a}nd til Greedy Algoritmer}{19}{section.4.3}
+\contentsline {chapter}{\numberline {5}Greedy Algorithms}{20}{chapter.5}
+\contentsline {section}{\numberline {5.1}Huffman}{20}{section.5.1}
+\contentsline {subsection}{\numberline {5.1.1}Lemma 16.2}{21}{subsection.5.1.1}
+\contentsline {subsection}{\numberline {5.1.2}Lemma 16.3}{21}{subsection.5.1.2}
+\contentsline {subsection}{\numberline {5.1.3}kontradiktion}{24}{subsection.5.1.3}
+\contentsline {chapter}{\numberline {6}Minimum Spanning Trees}{25}{chapter.6}
+\contentsline {section}{\numberline {6.1}Theorem 23.1}{25}{section.6.1}
+\contentsline {section}{\numberline {6.2}Kruskal}{26}{section.6.2}
+\contentsline {section}{\numberline {6.3}Prims algoritme}{26}{section.6.3}
+\contentsline {chapter}{\numberline {7}Shortest Path}{27}{chapter.7}
+\contentsline {section}{\numberline {7.1}lemma 24.1}{27}{section.7.1}
+\contentsline {section}{\numberline {7.2}Relax}{27}{section.7.2}
+\contentsline {section}{\numberline {7.3}Bellman-Ford Algoritmen}{28}{section.7.3}
+\contentsline {subsection}{\numberline {7.3.1}correctness 24.4}{28}{subsection.7.3.1}
+\contentsline {section}{\numberline {7.4}Dijkstra Algoritme}{28}{section.7.4}
+\contentsline {subsection}{\numberline {7.4.1}correctness 24.6}{28}{subsection.7.4.1}
